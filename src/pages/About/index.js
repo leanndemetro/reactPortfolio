@@ -47,7 +47,6 @@ function About() {
   <img className="resImg" src="https://i.imgur.com/JJbbBz3.jpg"></img>
   </div>
   </a>
-  <a href="/Portfolio"><input className="aboutContactBtn" type="button" value="VIEW MY PORTFOLIO"></input></a>
     </Col>
      <Col sm={4}>
      <div className="aboutCardLeft">
