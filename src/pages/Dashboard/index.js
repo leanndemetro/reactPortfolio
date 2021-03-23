@@ -1,7 +1,5 @@
 import React from "react";
 import "./style.css"
-import { Container, Row, Col } from "react-bootstrap";
-import { RiComputerLine } from "react-icons/ri"
 
 function Dashboard() {
   return (
