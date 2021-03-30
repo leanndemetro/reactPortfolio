@@ -38,34 +38,7 @@
 
 .aboutText {
     padding: 5px;
-    font-size: 19px;
-}
-
-.aboutTextTwo {
-    font-size: 17px;
-    padding: 11px;
-    text-align: left;
-}
-
-
-.resLink:hover {
-    text-decoration: none;
-  
-}
-
-
-.meImg {
-    width: 100%;
-    border-radius: 10px;
-}
-
-.resImg {
-    width: 90%;
-    border-radius: 10px;
-}
-
-.resImg:hover {
-    opacity: 0.6;
+    font-size: 1em;
 }
 
 .certImg {
@@ -77,23 +50,10 @@
     opacity: 0.7;
 }
 
-.aboutContactBtn {
-    background-color: #fad2ee;
-    border-color: white;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 5px;
+.viewPortText {
     color: white;
-    font-weight: bold;
-    float: center;
-    width: 100%;
-    padding: 23px;
-    font-size: 120%;
-    margin-top: 10px;
-}
-
-.aboutContactBtn:hover {
-   background-color: #d2ecfa;
-   border-style: solid;
-   border-width: 3px;
+   float: left;
+   font-size: 200%;
+   font-weight: bold;
+   text-align: right;
 }
