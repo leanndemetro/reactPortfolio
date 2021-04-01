@@ -1,6 +1,6 @@
 
 body {
-   background-color: #d2ecfa;
+   background-color: white;
     height: 100%;
     
 }
@@ -18,33 +18,32 @@ body {
 
 .TITLEDash {
     text-align: center;
-    color: white;
-    font-size: 600%;
+    color: black;
+    font-size: 350%;
     font-weight: bold;
     
 }
 
 .SUBDash {
     text-align: center;
-    color: white;
-    font-size: 200%;
+    color: black;
+    font-size: 100%;
     font-weight: bold;
 }
 
 hr {
     border-width: 5px;
-    border-color: white;
+    border-color: black;
 }
 
 .btnArea {
     text-align: center;
-    background-color: #fad2ee;
+    background-color: white;
   border-radius: 10px;
-  margin-left: 50px;
-  margin-right: 50px;
-  height: 110%;
+ width: 100%;
   padding: 20px;
-  margin-bottom: 20px;
+  margin-top: 80px;
+  margin-bottom: 80px;
   border-style: solid;
   border-color: white;
   border-width: 5px;
@@ -53,10 +52,10 @@ hr {
 
 }
 .dashBtn {
-    background-color: #d2ecfa;
-    border-color: #d2ecfa;
+    background-color: #FAD2EE;
+    border-color: #FAD2EE;
     border-radius: 5px;
-    color: white;
+    color: black;
     font-weight: bold;
     font-size: 100%;
    padding: 15px;
@@ -65,9 +64,9 @@ hr {
 }
 
 .dashBtn:hover {
-   background-color: white;
+   background-color: #d2ecfa;
    border-color: white;
-   color: #d2ecfa;
+   color: white;
 }
 
 

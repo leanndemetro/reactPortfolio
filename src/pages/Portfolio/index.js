@@ -7,15 +7,9 @@ function Portfolio() {
   return (
     <Container>
     <Row>
-    <Col sm={2}>
-       </Col>
-      <Col sm={8}>
    <span className="TITLE">
     Portfolio.
      </span>
-    </Col>
-    <Col sm={2}>
-       </Col>
    </Row>
    <Row>
      <Col>

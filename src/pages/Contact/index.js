@@ -7,17 +7,16 @@ import { Form } from "react-bootstrap";
 function Contact() {
   return (
     <Container>
-    <Row>
-    <Col sm={2}>
-       </Col>
-      <Col sm={8}>
-   <span className="TITLE">
-    Contact.
-     </span>
-    </Col>
-    <Col sm={2}>
-       </Col>
-   </Row>
+   <Row>
+     <Col sm={2}>
+  <span className="TITLE">
+   Contact
+    </span>
+   </Col>
+   <Col sm={8}>
+      </Col>
+  </Row>
+  <hr></hr>
    <Row>
    <Col sm={2}>
        </Col>

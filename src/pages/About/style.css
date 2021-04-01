@@ -1,7 +1,8 @@
 .TITLE {
-    color: white;
+    margin-top: 20px;
+    color: black;
    float: left;
-   font-size: 550%;
+   font-size: 300%;
    font-weight: bold;
 }
 
