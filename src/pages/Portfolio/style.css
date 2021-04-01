@@ -7,7 +7,7 @@
 
 .portImgTwoGrowth {
     width: 98%;
-    height: 290px;
+    max-height: 290px;
 }
 .portImgFour {
     width: 86%;

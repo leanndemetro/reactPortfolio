@@ -24,11 +24,11 @@ function Portfolio() {
    <Row>
    <Col sm={6}>
        <div className="portCardLeft">
-       <a rel="noreferrer" target="_blank" className="certImg" href="https://github.com/bridgetrshannon/Assist"><img alt="compostInc" className="portImg" src="https://i.imgur.com/VEKh4YY.jpg"></img></a> </div>
+       <a rel="noreferrer" target="_blank" className="certImg" href="https://github.com/bridgetrshannon/Assist"><img alt="compostInc" className="portImgTwo" src="https://i.imgur.com/2iWmNiv.jpg"></img></a> </div>
      </Col>
      <Col sm={6}>
        <div className="portCardLeft">
-         <a rel="noreferrer" target="_blank" className="certImg" href="https://github.com/AnthonnyMitch/Growth"><img alt="budgetTracker" className="portImgTwoGrowth" src="https://i.imgur.com/pf1UeLH.jpg"></img></a> </div>
+         <a rel="noreferrer" target="_blank" className="certImg" href="https://github.com/AnthonnyMitch/Growth"><img alt="budgetTracker" className="portImg" src="https://i.imgur.com/Jyh0FvD.jpg"></img></a> </div>
      </Col>
    </Row>
    <Row>
