@@ -4,6 +4,11 @@
 .portImgTwo {
     width: 98%;
 }
+
+.portImgTwoGrowth {
+    width: 98%;
+    height: 290px;
+}
 .portImgFour {
     width: 86%;
     margin: 22px;
@@ -18,3 +23,4 @@
     padding: 20px;
     margin-top: 10px;
 }
+
