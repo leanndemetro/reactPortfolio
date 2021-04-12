@@ -1,7 +1,12 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
 body {
-   background-color: white;
-    height: 100%;
+   background-image:url("https://i.imgur.com/jCLxrZa.jpg");
+   background-image: 100px;
+   background-size:cover;
+  
+
     
 }
 
@@ -21,6 +26,7 @@ body {
     color: black;
     font-size: 350%;
     font-weight: bold;
+    font-family: 'Indie Flower', cursive;
     
 }
 
@@ -69,4 +75,8 @@ hr {
    color: white;
 }
 
+
+.test {
+    color:blanchedalmond;
+}
 

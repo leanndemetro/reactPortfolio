@@ -1,38 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
 
-.navUl {
-    list-style-type: none;
-    margin: 0;
-    padding: 15px;
-    overflow: hidden;
-    background-color: #fad2ee;
-    margin-top: 10px;
-    border-radius: 5px;
-    font-weight: bold;
-  }
-  
-  .navLi {
+
+  .navDropdown {
+    height: 80%;
+    width: 10%;
+    opacity: .5;
     float: right;
+  }
 
+  .burgerIcon {
+    font-size: 200%;
+    text-align: left;
+    color: white;
+    opacity: 10;
   }
-  
-.NavBarLinks {
-    margin: 5px;
-    display: block;
-    color: black;
-    text-align: center;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: bold;
-    
+
+  .dropdownItem{
+    font-size: 30px;
   }
-  
-  /* Change the link color to #111 (black) on hover */
-.NavBarLinks:hover {
-   color: #d2ecfa;
-   text-decoration: none;
-   
-  }
+
+
+
+
+
+
 
 
 

@@ -6,6 +6,9 @@ import About from "./pages/About/index";
 import Portfolio from "./pages/Portfolio/index";
  import Footer from "./components/Footer/index"
 import Navbar from "./components/Navbar/index";
+import '@fortawesome/fontawesome-free/css/all.min.css'; import
+'bootstrap-css-only/css/bootstrap.min.css'; import
+'mdbreact/dist/css/mdb.css';
 
 
 
@@ -31,7 +34,6 @@ function App() {
             <Portfolio />
           </Route>
           </Switch>
-          <Footer />
       </div>
     </Router>
   );
