@@ -30,7 +30,7 @@ function About() {
   <Row>
     <Col sm={5}></Col>
     <Col sm={2}>
-      <a href="https://www.linkedin.com/in/alyssa-de-metro-59abba1b0/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADFMxcYB0XJ1lHN-GVVtohMQbcYjdf0W4pc,1635453343679)/"><button className="viewResBtn">VIEW FULL RESUME</button></a>
+      <a href="https://www.linkedin.com/in/alyssa-de-metro-59abba1b0/"><button className="viewResBtn">VIEW FULL RESUME</button></a>
     </Col>
     <Col sm={5}></Col>
   </Row>
