@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <h1>Alyssa DeMetro - My React Portfolio</h1>
 <hr>
+<img src="https://i.imgur.com/i6fn4Ke.jpg">
+<hr></hr>
 <h1>View a Deployed Version <a href="https://demetro-portfolio.herokuapp.com/">Here</a></h2>
 </head>
 <body>
