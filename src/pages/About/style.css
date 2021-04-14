@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
 .TITLE {
     margin-top: 20px;
-    color: black;
+    color: white;
    float: left;
    font-size: 300%;
-   font-weight: bold;
+   font-family: 'Montserrat', sans-serif;
+   
 }
 
 .aboutDiv {

@@ -1,13 +1,15 @@
 .footer {
-    margin: 0;
-    padding: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 8px;
     overflow: hidden;
-    background-color: #fad2ee;
+    background-color: black;
     margin-bottom: 10px;
-    border-radius: 5px;
     color: white;
-    text-align: center;
-    font-size: 200%;
+    text-align: right;
+    font-size: 250%;
+    opacity: 0.5;
+    width: 100%;
 }
 
 .footerLinks {
