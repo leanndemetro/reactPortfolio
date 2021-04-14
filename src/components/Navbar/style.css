@@ -1,15 +1,12 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 
   .navDropdown {
-    height: 80%;
-    width: 10%;
     opacity: .5;
-    float: right;
+    float: left;
   }
 
   .burgerIcon {
-    font-size: 200%;
-    text-align: left;
+    font-size: 300%;
     color: white;
     opacity: 10;
   }
@@ -21,7 +18,8 @@
   }
 
   .dropdown-menu {
-    opacity: 0.2;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
   }
 
 

@@ -1,82 +1,42 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 body {
    background-image:url("https://i.imgur.com/jCLxrZa.jpg");
    background-image: 100px;
    background-size:cover;
-  
-
-    
 }
 
-.linksOne, .linksTwo, .linksThree {
+
+.dashDiv {
     color: white;
-    text-decoration: none;
-    
-}
-.linksOne:hover, .linksTwo:hover, .linksThree:hover {
- opacity: 0.2;
-    
-}
-
-
-.TITLEDash {
+    margin-top: 200px;
+    font-size: 650%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    letter-spacing: 5px;
     text-align: center;
-    color: black;
-    font-size: 350%;
-    font-weight: bold;
-    font-family: 'Indie Flower', cursive;
-    
+    text-shadow: 2px 2px 4px #000000;
 }
 
-.SUBDash {
-    text-align: center;
-    color: black;
-    font-size: 100%;
-    font-weight: bold;
+.dashRowTwo {
+    font-size: 50%;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'Montserrat', sans-serif;
 }
 
-hr {
-    border-width: 5px;
-    border-color: black;
-}
-
-.btnArea {
-    text-align: center;
-    background-color: white;
-  border-radius: 10px;
- width: 100%;
-  padding: 20px;
-  margin-top: 80px;
-  margin-bottom: 80px;
-  border-style: solid;
-  border-color: white;
-  border-width: 5px;
-  text-transform: uppercase;
-  background-image: url("https://www.transparenttextures.com/patterns/brilliant.png");
-
-}
-.dashBtn {
-    background-color: #FAD2EE;
-    border-color: #FAD2EE;
+.learnButton {
+    font-size: 20px;
+    background-color: #436660;
+    font-family: 'Montserrat', sans-serif;
     border-radius: 5px;
-    color: black;
-    font-weight: bold;
-    font-size: 100%;
-   padding: 15px;
-   margin-bottom: 10px;
- 
 }
 
-.dashBtn:hover {
-   background-color: #d2ecfa;
-   border-color: white;
-   color: white;
+.learnButton:hover {
+    opacity: 0.7;
 }
 
-
-.test {
-    color:blanchedalmond;
+.learnText{
+    color: white;
+    margin-bottom: -2px;
 }
-

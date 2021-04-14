@@ -21,7 +21,7 @@ function App() {
       <div>
         <Navbar />
           <Switch>
-          <Route exact path={["/"]}>
+          <Route exact path="/">
             <Dashboard />
           </Route>
           <Route exact path="/Contact">
