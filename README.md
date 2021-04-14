@@ -7,7 +7,7 @@
 <hr>
 <img src="https://i.imgur.com/i6fn4Ke.jpg">
 <hr></hr>
-<h1>View a Deployed Version <a href="https://demetro-portfolio.herokuapp.com/">Here</a></h2>
+<h1>View a Deployed Version <a href="https://demetro-portfolio.herokuapp.com/">demetro-portfolio.herokuapp.com</a></h2>
 </head>
 <body>
 
