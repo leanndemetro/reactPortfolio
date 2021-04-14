@@ -12,11 +12,10 @@ class Navbar extends Component {
       <MDBDropdownToggle color="grey" className="navDropdown">
       <GiHamburgerMenu className="burgerIcon"/>
       </MDBDropdownToggle>
-      <MDBDropdownMenu color>
-        <MDBDropdownItem className="dropdownItem" >1</MDBDropdownItem>
-        <MDBDropdownItem className="dropdownItem" >2</MDBDropdownItem>
-        <MDBDropdownItem className="dropdownItem" >3</MDBDropdownItem>
-        <MDBDropdownItem className="dropdownItem" >4</MDBDropdownItem>
+      <MDBDropdownMenu>
+        <a href="/"><MDBDropdownItem className="dropdownItem" >Home</MDBDropdownItem></a>
+        <a href="/About"><MDBDropdownItem className="dropdownItem" > About </MDBDropdownItem></a>
+        <a href="/Portfolio"><MDBDropdownItem className="dropdownItem" >Portfolio</MDBDropdownItem></a>
       </MDBDropdownMenu>
     </MDBDropdown>
 

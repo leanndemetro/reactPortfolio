@@ -15,7 +15,13 @@
   }
 
   .dropdownItem{
-    font-size: 30px;
+    font-size: 15px;
+    float: right;
+    
+  }
+
+  .dropdown-menu {
+    opacity: 0.2;
   }
 
 
