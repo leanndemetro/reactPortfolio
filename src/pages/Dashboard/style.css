@@ -2,32 +2,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 body {
-   background-image:url("https://i.imgur.com/jCLxrZa.jpg");
+   background-image:url("https://i.imgur.com/1BkN7dh.jpg");
    background-image: 100px;
    background-size:cover;
 }
 
 
 .dashDiv {
-    color: white;
+    color: black;
     margin-top: 200px;
     font-size: 650%;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     letter-spacing: 5px;
     text-align: center;
-    text-shadow: 2px 2px 4px #000000;
+    text-shadow: 2px 2px 5px #ffffff;
 }
 
 .dashRowTwo {
     font-size: 50%;
-    text-shadow: 2px 2px 4px #000000;
+    text-shadow: 2px 2px 4px #ffffff;
     font-family: 'Montserrat', sans-serif;
 }
 
 .learnButton {
     font-size: 20px;
-    background-color: #436660;
+    background-color: black;
+    background: rgba(0, 0, 0, 0.8);
     font-family: 'Montserrat', sans-serif;
     border-radius: 5px;
 }
