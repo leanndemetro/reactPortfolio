@@ -7,3 +7,12 @@
   width: 48%;
   margin: 3px;
 }
+
+.aboutLink {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+}
+.aboutLink:hover {
+ font-style: italic;
+}

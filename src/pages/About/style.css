@@ -1,0 +1,33 @@
+.aboutText {
+    font-size: 30px;
+}
+.aboutTextTwo {
+    font-size: 18px;
+}
+
+.aboutTextDiv {
+    width: 65%;
+    padding: 25px;
+}
+
+.contactLink {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
+.contactLink:hover {
+    opacity: 0.7;
+}
+
+@media only screen 
+    and (device-width : 375px) 
+    and (device-height : 812px) 
+    and (-webkit-device-pixel-ratio : 3) { 
+    .aboutTextDiv {
+        width: 100%;
+    }
+    .aboutText {
+        font-size: 25px;
+    }
+    }

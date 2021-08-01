@@ -6,8 +6,7 @@ class Footer extends Component {
     render() {
         return (
             <footer className="footer">
-            <p>demetroalyssa@gmail.com</p>
-            <p>(407) 885-9149</p>
+            <hr></hr>
           </footer>
         );
     }
