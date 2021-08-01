@@ -1,32 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
-
-  .navDropdown {
-    opacity: .5;
-    float: left;
-  }
-
-  .burgerIcon {
-    font-size: 300%;
-    color: white;
-    opacity: 10;
-  }
-
-  .dropdownItem{
-    font-size: 15px;
-    float: right;
-    
-  }
-
-  .dropdown-menu {
-    font-weight: bold;
-    font-family: 'Montserrat', sans-serif;
-  }
+.navbar {
+  width: 100%;
+}
 
 
 
 
+.navNameText {
+  font-size: 30px;
+  margin-left: 25px;
+}
 
+.navLinks {
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+}
 
-
+.navLinks:hover {
+  font-style: italic;
+}
 
 
