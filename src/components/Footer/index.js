@@ -6,9 +6,6 @@ class Footer extends Component {
     render() {
         return (
             <footer className="footer">
-                <br></br>
-                <br></br>
-                <br></br>
             <p>demetroalyssa@gmail.com</p>
             <p>(407) 885-9149</p>
           </footer>

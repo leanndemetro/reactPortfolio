@@ -4,16 +4,18 @@ import "./style.css"
 function Dashboard() {
   return (
     <div className="dashboard">
-     <img className="dashImg" src="https://i.imgur.com/fPkZOhV.jpg"></img>
-     <img className="dashImg" src="https://i.imgur.com/fPkZOhV.jpg"></img>
-     <img className="dashImg" src="https://i.imgur.com/fPkZOhV.jpg"></img>
-     <img className="dashImg" src="https://i.imgur.com/fPkZOhV.jpg"></img>
+      <img className="dashImg" src="https://i.imgur.com/1x5d5qd.jpg"></img>
+      <img className="dashImg" src="https://i.imgur.com/fPkZOhV.jpg"></img>
+      <img className="dashImg" src="https://i.imgur.com/cMtWQse.jpg"></img>
+      <img className="dashImg" src="https://i.imgur.com/RQbduUQ.jpg"></img>
+     <br></br>
+     <br></br>
      <p>Alyssa DeMetro is a freelance Web-Developer based out of Central Florida.
-                    <br></br>
+                    
                     She works with a diverse range of technologies including HTML, CSS, Javascript,
-                    <br></br>
+                    
                      third-party APIs, Progressive Web Applications, MySQL, API design, and the 
-                     <br></br>MERN stack (MongoDB, Express.js, React.js, Node.js)
+                     MERN stack (MongoDB, Express.js, React.js, Node.js)
                 </p>
     </div>
 
